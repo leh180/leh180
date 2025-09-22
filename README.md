@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Letícia Azevedo
 
-**`Ciêntista da Computação**
+**Ciêntista da Computação**
 
 Olá, eu sou a Letícia Azevedo! 👋
 
