@@ -4,7 +4,7 @@
 
 Olá, eu sou a Letícia Azevedo! 👋
 
-👩‍💻 Estudante de Ciência da Computação na PUCMG. <br/>
+👩‍💻 Estudante de Ciência da Computação na Pontifícia Universidade Católica de Minas Gerais. <br/>
 💡 Apaixonada por resolver problemas com tecnologia. <br/>
 📍 Belo Horizonte, Brasil. <br/>
 
